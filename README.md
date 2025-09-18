@@ -9,7 +9,7 @@ README • Jared Tamulynas / Lumat Apps
 
 <p align="center">
   <a href="https://lumatapps.github.io/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-lumatapps.com-111?style=for-the-badge">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-lumatapps.github.io-111?style=for-the-badge">
   </a>
   <a href="mailto:lumat.apps@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-lumat.apps%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">

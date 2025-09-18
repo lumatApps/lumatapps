@@ -1,15 +1,14 @@
 <!--
 README • Jared Tamulynas / Lumat Apps
-Keep it lightweight and friendly. Prefer short, skimmable sections.
 -->
 
 <h1 align="center">Jared Tamulynas · Lumat Apps</h1>
 <p align="center">
-  <em>North Carolina–based mobile engineer crafting polished iOS & Android apps with SwiftUI and Jetpack Compose.</em>
+  <em>Mobile developer crafting iOS & Android apps with SwiftUI and Jetpack Compose.</em>
 </p>
 
 <p align="center">
-  <a href="https://www.lumatapps.com">
+  <a href="https://www.lumatapps.github.io/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-lumatapps.com-111?style=for-the-badge">
   </a>
   <a href="mailto:lumat.apps@gmail.com">

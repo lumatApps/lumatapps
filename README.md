@@ -8,7 +8,7 @@ README • Jared Tamulynas / Lumat Apps
 </p>
 
 <p align="center">
-  <a href="https://www.lumatapps.github.io/">
+  <a href="https://lumatapps.github.io/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-lumatapps.com-111?style=for-the-badge">
   </a>
   <a href="mailto:lumat.apps@gmail.com">
